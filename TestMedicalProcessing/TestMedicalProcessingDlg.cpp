@@ -131,7 +131,7 @@ BOOL CTestMedicalProcessingDlg::OnInitDialog()
 
 	OpenFile(m_FileName, m_ImageSizeX, m_ImageSizeY);
 
-	// move window //
+	// move window  //
 	MoveWindow(200, 100, 512, 512);
 
 	return TRUE;  // return TRUE  unless you set the focus to a control
